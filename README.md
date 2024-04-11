@@ -13,3 +13,4 @@ A simple virual camera program using AI to create drawing on your virtual panel,
  - Run the Visual Painter
  - Do a Fuck! Hand state
  - GG
+![image (2)](https://github.com/Diary-hub/virtualpaint/assets/39463871/b8460a40-b2ef-4278-808b-491c1bee3ef6)
